@@ -1,6 +1,6 @@
 <h1 align='center'>
-  Faye Carter...
-</h1>
+  Faye Carter
+</h1>...
 
 <div align="center">
 
