@@ -11,6 +11,7 @@
 
 </div>
 
+
 I am a junior software engineer, currently studying at [Makers Academy](https://makers.tech/) London. My background is in control systems, electrical and mechanical maintenance engineering, which I have worked in for the past 7 years.
 
 ## Skills
@@ -51,4 +52,4 @@ It has been essential for me to develop an organised approach to learning as an 
 
 ## Hobbies
 
-- Co founder of [Big Dill Catering](https://www.instagram.com/bigdillcatering/)
+- Co-founder of [Big Dill Catering](https://www.instagram.com/bigdillcatering/)
