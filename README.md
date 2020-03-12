@@ -1,6 +1,6 @@
-## Faye Carter
+# Faye Carter
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am a junior software engineer, currently studying at [Makers Academy](https://makers.tech/) London. My background is in control systems, electrical and mechanical maintenance engineering, which I have worked in for the past 7 years.
 
 ## Skills
 
@@ -18,20 +18,21 @@ Consider skills relevent to software development. Then consider your best skills
 
 #### University of Plymouth (2008 - 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA(hons) Architecture
 
 ## Experience
 
 **Amazon** (2017 - 2020)    
 *Control Systems Engineer*  
-- Any experience relevent to software development
+- Leading engineering team in fault finding and maintenance of control systems
+- Designing, programming and building rigs and applications to improve engineering work
+- Maintenance of robotics, barcoding technology and conveyance systmens
 
 **Royal Mail** (2013 - 2017)   
 *Automation Maintenance Engineer*  
-- Any experience relevent to software development
+- Performing daily maintenance on letter sorting machines
+- Design and development of projects to improve engineering practices
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Co founder of [Big Dill Catering](https://www.instagram.com/bigdillcatering/)
