@@ -1,4 +1,4 @@
-# Faye Carter
+# <center>Faye Carter</center>
 
 I am a junior software engineer, currently studying at [Makers Academy](https://makers.tech/) London. My background is in control systems, electrical and mechanical maintenance engineering, which I have worked in for the past 7 years.
 
