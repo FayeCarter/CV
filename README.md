@@ -1,6 +1,7 @@
 <h1 align='center'>
   Faye Carter
 </h1>
+
 <div align="center">
 
 [Skills ](#skills) |
@@ -14,8 +15,13 @@ I am a junior software engineer, currently studying at [Makers Academy](https://
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+### Problem Solving
 
+The basis of my work as an Engineer has been based in solving problems with a logical and systematic process. To approach a problem, It is essential that I know how to break the problem down to smaller, more manageable parts and analysing its key factors before taking steps to resolve the issue.
+
+### Assertive Learner
+
+It has been essential for me to develop an organised approach to learning as an engineer. Setting achievable goals with managebale steps allowed me to develop from an inexperianced engineer to a subject matter in my field.
 
 ## Education
 
