@@ -46,7 +46,7 @@ This is a selection of projects that I haveve worked on. to see more, [please se
 | **Project** | **Description** | **Technology** | **Github** | **Live** |
 | ----------- | --------------- | -------------- | ---------- | -------- |
 | WhatStack | 2 Week group project to design a welcoming chat room environment for developers to ask for help | Sockets, OAuth, React, Node, Express, MongoDB | [WhatStack on Github](https://github.com/FayeCarter/WhatStack) | [WhatStack](http://whatstack.herokuapp.com/) |
-| Bank | A commangd line Ruby application allowing you to create a bank account, make deposits, withdraw money from it, and print statements. | Ruby |  [Bank on GitHub](https://github.com/FayeCarter/bank_tech_test) | N/A |
+| Bank | A command line Ruby application allowing you to create a bank account, make deposits, withdraw money from it, and print statements. | Ruby |  [Bank on GitHub](https://github.com/FayeCarter/bank_tech_test) | N/A |
 
 
 ## Experience
