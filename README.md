@@ -1,4 +1,4 @@
-<h1 align='center'>
+<h1 align="center">
   Faye Carter
 </h1>
 
@@ -6,16 +6,16 @@
 
 [Skills ](#skills) |
 [Education ](#education) |
+[Projects ](#projects) |
 [Experience ](#experience) |
 [Hobbies ](#hobbies)
 
 </div>
 
 
-
-
-I am a junior software engineer, currently studying at [Makers Academy](https://makers.tech/) London. My background is in control systems, electrical and mechanical maintenance engineering, which I have worked in for the past 7 years.
-
+I am a junior software engineer and recent graduate of [Makers Academy](https://makers.tech/). My background is in control systems, electrical and mechanical maintenance engineering, which I have worked in for the past 7 years. 
+I'm excited to find work with a company that fosters a supportive learning environment where I can make a meaningful contribution. I'm a fast learner, and I'm willing and enthusiastic to learn new technology stacks and skills.
+ 
 ## Skills
 
 ### Problem Solving
@@ -32,12 +32,22 @@ It has been essential for me to develop an organised approach to learning as an 
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React, Node, Socket.io
+- RSpec, Jasmine, Jest, React testing Library
 
 #### University of Plymouth (2008 - 2011)
 
 - BA(hons) Architecture
+
+## Projects
+
+This is a selection of projects that I haveve worked on. to see more, [please see my Github](https://github.com/FayeCarter?tab=repositories).
+
+| **Project** | **Description** | **Technology** | **Github** | **Live** |
+| ----------- | --------------- | -------------- | ---------- | -------- |
+| WhatStack | 2 Week group project to design a welcoming chat room environment for developers to ask for help | Sockets, OAuth, React, Node, Express, MongoDB | [WhatStack on Github](https://github.com/FayeCarter/WhatStack) | [WhatStack](http://whatstack.herokuapp.com/) |
+| Bank | A commangd line Ruby application allowing you to create a bank account, make deposits, withdraw money from it, and print statements. | Ruby |  [Bank on GitHub](https://github.com/FayeCarter/bank_tech_test) | N/A |
+
 
 ## Experience
 
