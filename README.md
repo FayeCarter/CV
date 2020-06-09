@@ -62,6 +62,6 @@ This is a selection of projects that I haveve worked on. to see more, [please se
 - Performing daily maintenance on letter sorting machines
 - Design and development of projects to improve engineering practices
 
-## Hobbies
+## Other Projects
 
 - Co-founder of [Big Dill Catering](https://www.instagram.com/bigdillcatering/)
