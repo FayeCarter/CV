@@ -4,9 +4,9 @@
 
 <div align="center">
 
+[Projects ](#projects) |
 [Skills ](#skills) |
 [Education ](#education) |
-[Projects ](#projects) |
 [Experience ](#experience) |
 [Hobbies ](#hobbies)
 
@@ -18,7 +18,20 @@ I am a **Full Stack Engineer** and recent graduate of the selective programming 
 My background is in control systems, electrical and mechanical maintenance engineering, which I have worked in for the past 7 years. This is where I began to learn the basics of programming, familiarizing myself with Python and building small scale projects to improve my team’s and my own daily life. 
 
 During my time at Makers I gained the skills to build complex, full stack applications. trained in OOP, TDD, pair programming, with XP values, and have fallen in love with coding.
- 
+
+## Projects
+
+This is a selection of projects that I haveve worked on. to see more, [please see my Github](https://github.com/FayeCarter?tab=repositories).
+
+| **Project** | **Description** | **Technology** | **Github** | **Live** |
+| ----------- | --------------- | -------------- | ---------- | -------- |
+| WhatStack | 2 Week group project to design a welcoming chat room environment for developers to ask for help | Sockets, OAuth, React, Node, Express, MongoDB | [WhatStack on Github](https://github.com/FayeCarter/WhatStack) | [WhatStack](http://whatstack.herokuapp.com/) |
+| Bank | A command line Ruby application allowing you to create a bank account, make deposits, withdraw money from it, and print statements. | Ruby |  [Bank on GitHub](https://github.com/FayeCarter/bank_tech_test) | N/A |
+
+
+
+
+
 ## Skills
 
 ### Problem Solving
@@ -36,7 +49,7 @@ It has been essential for me to develop an organised approach to learning as an 
 
 In June 2017 I joined Amazon as an apprentice engineer, inexperienced but enthusiastic. Every day I would take the opportunity to engage in processes that I had not before experienced. I asked questions of those that new more than me and would spend my spare time researching the tasks that I had done. By December I was the technical lead for my team in controls based faults and used these skills.
 
-### Innovation and Streamlining
+### Innovation and Streamline
 
 I take great joy if finding simple solutions for complex problems. I like to design applications that will make day to day life easier and more enjoyable.
 
@@ -57,15 +70,6 @@ I realised that this could be done quicker and more efficiently. I chose to spen
 
 - BA(hons) Architecture
 
-## Projects
-
-This is a selection of projects that I haveve worked on. to see more, [please see my Github](https://github.com/FayeCarter?tab=repositories).
-
-| **Project** | **Description** | **Technology** | **Github** | **Live** |
-| ----------- | --------------- | -------------- | ---------- | -------- |
-| WhatStack | 2 Week group project to design a welcoming chat room environment for developers to ask for help | Sockets, OAuth, React, Node, Express, MongoDB | [WhatStack on Github](https://github.com/FayeCarter/WhatStack) | [WhatStack](http://whatstack.herokuapp.com/) |
-| Bank | A command line Ruby application allowing you to create a bank account, make deposits, withdraw money from it, and print statements. | Ruby |  [Bank on GitHub](https://github.com/FayeCarter/bank_tech_test) | N/A |
-
 
 ## Experience
 
@@ -82,4 +86,10 @@ This is a selection of projects that I haveve worked on. to see more, [please se
 
 ## Other Projects
 
-- Co-founder of [Big Dill Catering](https://www.instagram.com/bigdillcatering/)
+### [Big Dill Catering](https://www.instagram.com/bigdillcatering/)
+*Events and Wedding catering*
+- Co-founder and sous chef
+- Catering for weddings of up to 190 guests
+- Lead a team of 5 people 
+- Procurement and organisation ofkitchen supplies and food
+- Social media content editor
