@@ -28,10 +28,6 @@ This is a selection of projects that I haveve worked on. to see more, [please se
 | WhatStack | 2 Week group project to design a welcoming chat room environment for developers to ask for help | Sockets, OAuth, React, Node, Express, MongoDB | [WhatStack on Github](https://github.com/FayeCarter/WhatStack) | [WhatStack](http://whatstack.herokuapp.com/) |
 | Bank | A command line Ruby application allowing you to create a bank account, make deposits, withdraw money from it, and print statements. | Ruby |  [Bank on GitHub](https://github.com/FayeCarter/bank_tech_test) | N/A |
 
-
-
-
-
 ## Skills
 
 ### Problem Solving
@@ -40,22 +36,23 @@ Working as an Engineer, I have developed a love of solving problems with a logic
 
 Working as an Engineer in the high pressured, fast paced environment of one of the largest warehouses in Europe, it was essential that I could quickly identify the cause of a breakdown quickly and efficiently. 
 
-I CANT THINK OF AN EXAMPLE
+*Example to follow*
 
 
 ### Assertive Learner
 
 It has been essential for me to develop an organised approach to learning as an engineer. Setting achievable goals with manageable steps has been key to me developing in my career. 
 
-In June 2017 I joined Amazon as an apprentice engineer, inexperienced but enthusiastic. Every day I would take the opportunity to engage in processes that I had not before experienced. I asked questions of those that new more than me and would spend my spare time researching the tasks that I had done. By December I was the technical lead for my team in controls based faults and used these skills.
+In June 2017 I joined Amazon as an apprentice engineer, inexperienced but enthusiastic. Every day I would take the opportunity to engage in processes that I had not before experienced. I asked questions of those that knew more than me and would spend my spare time researching the tasks that I had done. By December I was the technical lead for my team in controls based faults and used these skills.
 
-### Innovation and Streamline
+### Innovate and Streamline
 
-I take great joy if finding simple solutions for complex problems. I like to design applications that will make day to day life easier and more enjoyable.
+I take great joy in finding simple solutions for complex problems. I like to design applications that will make day to day life easier and more enjoyable.
 
-During my time at Amazon I identified a key issue that was causing unnesseccary downtime during our day. If a printer needed to be replaced, It would take an Engineer 30 minutes to manually update every individual setting to configure the Printer and re-install it into our machines. This process was not only long, but would also lead to further faults when an Engineer would enter the wrong configuration.
+During my time at Amazon I identified a key issue that was causing unnecessary downtime during our day. If a printer needed to be replaced, It would take an Engineer 30 minutes to manually update every individual setting to configure the Printer and reinstall it into our machines. This process was not only long, but would also lead to further faults when an Engineer would enter the wrong configuration.
 
 I realised that this could be done quicker and more efficiently. I chose to spend my spare time learning the basics of Python to build an application that would update the printer with the correct configuration with the click of a button. In doing so, I reduced the time it would take to change a printer from 30 minutes down to 5 and completely eliminated the risk of human error.
+
 
 ## Education
 
