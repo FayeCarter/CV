@@ -28,14 +28,15 @@
 I am a **Full Stack Engineer** and recent graduate of the highly selective programming boot camp [Makers Academy](https://makers.tech/).
 
 
-My background is in control systems and electrical and mechanical maintenance engineering which I have worked in over the past seven years. Alongside my work as an engineer, I taught myself the basics of programming, familiarizing myself with Python and building small scale projects to improve the working environment and tasks for myself and my team.
+My background is in control systems and electrical and mechanical maintenance engineering which I have worked for the past seven years. Alongside my work as an engineer, I taught myself the basics of programming, familiarizing myself with Python and building small scale projects to improve the working environment and daily tasks for myself and my team.
 
 As a graduate of the Makers Academy I now have the skills to build complex, full stack applications using JavaScript and Ruby. I am trained in OOP, TDD, pair programming and using agile processes.
+
 During my time at Makers I have fallen in love with coding and am excited to bring my passion and enthusiasm to a new role.
 
 ## Projects
 
-This is a selection of projects that I have worked on. to see more, [please see my Github](https://github.com/FayeCarter?tab=repositories).
+This is a selection of projects that I have worked on. To see more, [please see my Github](https://github.com/FayeCarter?tab=repositories).
 
 ---
 
@@ -140,14 +141,14 @@ Working as an Engineer for one of the best-known companies in the world in the h
 
 **Amazon** (2017 - 2020)    
 *Control Systems Engineer*  
-* Subject Matter Expert - Fault Finding And Maintenance Of Control Systems
-* Design And Programming Of Products And Applications For The Improvement Of Engineering Performance
-* Maintenance Of Robotics, Barcoding Technology And Conveyance Systems
+* Subject Matter Expert - Fault finding and maintenance of Control Systems
+* Design and programming of products and applications for the improvement of engineering performance
+* Maintenance of robotics, barcoding technology and conveyance systems
 
 **Royal Mail** (2013 - 2017)   
 *Automation Maintenance Engineer*  
-* Design And Development Of Projects To Improve Engineering Practices
-* Production Maintenance Of Letter Sorting Machines
+* Design and development of projects to improve engineering practices
+* Production maintenance of letter sorting machines
 
 ## Other Projects
 
