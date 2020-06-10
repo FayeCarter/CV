@@ -23,10 +23,40 @@ During my time at Makers I gained the skills to build complex, full stack applic
 
 This is a selection of projects that I haveve worked on. to see more, [please see my Github](https://github.com/FayeCarter?tab=repositories).
 
-| **Project** | **Description** | **Technology** | **Github** | **Live** |
-| ----------- | --------------- | -------------- | ---------- | -------- |
-| WhatStack | 2 Week group project to design a welcoming chat room environment for developers to ask for help | Sockets, OAuth, React, Node, Express, MongoDB | [WhatStack on Github](https://github.com/FayeCarter/WhatStack) | [WhatStack](http://whatstack.herokuapp.com/) |
-| Bank | A command line Ruby application allowing you to create a bank account, make deposits, withdraw money from it, and print statements. | Ruby |  [Bank on GitHub](https://github.com/FayeCarter/bank_tech_test) | N/A |
+---
+
+### WhatStack
+2 Week group project to design a welcoming chat room environment for developers to ask for help. <br>
+[WhatStack on Github](https://github.com/FayeCarter/WhatStack) <br>
+[WhatStack - Live](http://whatstack.herokuapp.com/) 
+
+<img align="right" src="./gifs/WhatStack.gif">
+
+#### Tech Stack
+* Sockets, 
+* OAuth, 
+* React, 
+* Node, 
+* Express, 
+* MongoDB
+
+#### Testing Frameworks
+* Jest,
+* React Testing Library
+
+---
+
+### Bank
+A command line Ruby application allowing you to create a bank account, make deposits, withdraw money from it, and print statements.<br>
+[Bank on GitHub](https://github.com/FayeCarter/bank_tech_test)
+
+#### Tech Stack
+* Ruby
+
+#### Testing Frameworks
+* RSpec
+
+---
 
 ## Skills
 
