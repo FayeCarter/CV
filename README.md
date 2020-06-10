@@ -93,3 +93,9 @@ I realised that this could be done quicker and more efficiently. I chose to spen
 - Lead a team of 5 people 
 - Procurement and organisation ofkitchen supplies and food
 - Social media content editor
+
+### Fun Facts
+
+* Captain of 8 team husky sled through the snowy tundra of the arctic
+* Turtle conservationist in Costa Rica
+* Hot tub sailor through the waterways of Canary Wharf
