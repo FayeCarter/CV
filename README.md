@@ -30,7 +30,8 @@ This is a selection of projects that I haveve worked on. to see more, [please se
 [WhatStack on Github](https://github.com/FayeCarter/WhatStack) <br>
 [WhatStack - Live](http://whatstack.herokuapp.com/) 
 
-<img align="right" src="./gifs/WhatStack.gif">
+<img src="./gifs/WhatStack.gif" width="400" align="right" >
+
 
 #### Tech Stack
 * Sockets, 
