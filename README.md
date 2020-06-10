@@ -69,6 +69,23 @@ The aim of this project was to focus fully on the TDD process with writing clean
 
 ---
 
+### Rock, Paper, Scissors
+
+<img src="https://github.com/FayeCarter/rps-challenge/raw/master/supporting/RPS.gif" width="45%" align="right" >
+
+[Rock, Paper, Scissors on GitHub](https://github.com/FayeCarter/rps-challenge)
+
+A Ruby/Sinatra web application.
+
+Player can enter their name and play 'Rock, Paper, Scissors' against the computer. The game tracks the game score so the player can see how successful they are.
+
+
+| Tech Stack | Testing Frameworks |
+| ---------- | ------------------ |
+| Ruby, Sinatra, CSS, HTML    |       RSpec        |
+
+---
+
 ## Skills
 
 ### Innovate and Streamline
