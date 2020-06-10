@@ -26,24 +26,29 @@ This is a selection of projects that I haveve worked on. to see more, [please se
 ---
 
 ### WhatStack
-2 Week group project to design a welcoming chat room environment for developers to ask for help. <br>
+
+<img src="./gifs/WhatStack.gif" width="45%" align="right" >
+ 
 [WhatStack on Github](https://github.com/FayeCarter/WhatStack) <br>
 [WhatStack - Live](http://whatstack.herokuapp.com/) 
 
-<img src="./gifs/WhatStack.gif" width="400" align="right" >
+The aim of the project was to create a welcoming chat room environment for developers to ask for help.
+
+Users can access the site using their GitHub Login details, create a room based around their concern, post a question and receive feedback in realtime. 
+
+If the user wants to send a code block, it can be entered in markdown using three back ticks and specifying the language. The message will be formatted as a code block in that language highlighting variables and correctly indenting each line.
+
+```
+#  ```ruby
+# name = "Faye"
+#  ```
+```
 
 
-#### Tech Stack
-* Sockets, 
-* OAuth, 
-* React, 
-* Node, 
-* Express, 
-* MongoDB
 
-#### Testing Frameworks
-* Jest,
-* React Testing Library
+| Tech Stack | Testing Frameworks |
+| ---------- | ------------------ |
+|Sockets, OAuth, React, <br>Node, Express,<br> MongoDB | Jest, <br>React Testing Library |
 
 ---
 
