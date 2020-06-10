@@ -103,21 +103,21 @@ Working as an Engineer for one of the best-known companies in the world in the h
 
 #### University of Plymouth (2008 - 2011)
 
-- BA(hons) Architecture
+- BA (Hons) Architecture
 
 
 ## Experience
 
 **Amazon** (2017 - 2020)    
 *Control Systems Engineer*  
-- Leading engineering team in fault finding and maintenance of control systems
-- Designing, programming and building rigs and applications to improve engineering work
-- Maintenance of robotics, barcoding technology and conveyance systmens
+* Subject Matter Expert - Fault Finding And Maintenance Of Control Systems
+* Design And Programming Of Products And Applications For The Improvement Of Engineering Performance
+* Maintenance Of Robotics, Barcoding Technology And Conveyance Systems
 
 **Royal Mail** (2013 - 2017)   
 *Automation Maintenance Engineer*  
-- Performing daily maintenance on letter sorting machines
-- Design and development of projects to improve engineering practices
+* Design And Development Of Projects To Improve Engineering Practices
+* Production Maintenance Of Letter Sorting Machines
 
 ## Other Projects
 
@@ -125,11 +125,11 @@ Working as an Engineer for one of the best-known companies in the world in the h
 *Events and Wedding catering*
 - Co-founder and sous chef
 - Catering for weddings of up to 190 guests
-- Lead a team of 5 people 
-- Procurement and organisation ofkitchen supplies and food
+- 5 person team lead 
+- Procurement and organisation of kitchen supplies and food
 - Social media content editor
 
-### Fun Facts
+## Fun Facts
 
 * Captain of 8 team husky sled through the snowy tundra of the arctic
 * Turtle conservationist in Costa Rica
