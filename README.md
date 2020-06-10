@@ -3,12 +3,25 @@
 </h1>
 
 <div align="center">
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/Ruby-642%20commits-red.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/JavaScript-288%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/HTML-232%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/CSS-333%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/SQL-300%20commits-purple.svg" alt=""></a>
+</div>
+
+<div align="center">
+
+<br>
 
 [Projects ](#projects) |
 [Skills ](#skills) |
 [Education ](#education) |
 [Experience ](#experience) |
-[Hobbies ](#hobbies)
+[Other Projects ](#experience) |
+[Fun Facts ](#hobbies)
+
+
 
 </div>
 
