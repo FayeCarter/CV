@@ -71,28 +71,25 @@ The aim of this project was to focus fully on the TDD process with writing clean
 
 ## Skills
 
-### Problem Solving
-
-Working as an Engineer, I have developed a love of solving problems with a logical and systematic process. To approach a problem, it is essential that I know how to break the problem down to smaller, more manageable parts and analyse it's key factors before taking steps to resolve the issue.
-
-Working as an Engineer in the high pressured, fast paced environment of one of the largest warehouses in Europe, it was essential that I could quickly identify the cause of a breakdown quickly and efficiently. 
-
-*Example to follow*
-
-
-### Assertive Learner
-
-It has been essential for me to develop an organised approach to learning as an engineer. Setting achievable goals with manageable steps has been key to me developing in my career. 
-
-In June 2017 I joined Amazon as an apprentice engineer, inexperienced but enthusiastic. Every day I would take the opportunity to engage in processes that I had not before experienced. I asked questions of those that knew more than me and would spend my spare time researching the tasks that I had done. By December I was the technical lead for my team in controls based faults and used these skills.
-
 ### Innovate and Streamline
 
 I take great joy in finding simple solutions for complex problems. I like to design applications that will make day to day life easier and more enjoyable.
 
-During my time at Amazon I identified a key issue that was causing unnecessary downtime during our day. If a printer needed to be replaced, It would take an Engineer 30 minutes to manually update every individual setting to configure the Printer and reinstall it into our machines. This process was not only long, but would also lead to further faults when an Engineer would enter the wrong configuration.
+During my time at Amazon I identified a key issue that was unnecessarily difficult and time consuming. When a printer needed to be replaced, it would take an Engineer thirty minutes to manually update each individual setting. The process involved was not only long but would lead to further faults when an Engineer entered the wrong configuration.
 
-I realised that this could be done quicker and more efficiently. I chose to spend my spare time learning the basics of Python to build an application that would update the printer with the correct configuration with the click of a button. In doing so, I reduced the time it would take to change a printer from 30 minutes down to 5 and completely eliminated the risk of human error.
+I realised that this could be done more efficiently and that Python would be the best language to help me implement a solution to the problem.
+
+I therefore began to teach myself the basics of Python to build an application that would immediately update the printer with the correct configuration. With the click of a button, the time taken to change a printer was reduced from 30 minutes down to 5 and completely eliminated the risk of human error.
+
+### Assertive Learner
+
+In June 2017 I joined Amazon as an enthusiastic apprentice engineer. I set myself a goal to engage daily with new processes, to ask questions and learn from experienced Engineers and to spend my spare time researching the new skills I was learning. In under six months I was the technical lead for my team in controls based faults, and quickly became known for my ability to absorb new information quickly.
+
+### Problem Solving
+
+I enjoy solving problems with a logical and systematic process, which stems from my work as an Engineer. In tackling a problem, my approach is to deconstruct the problem, separating it into smaller sections. I analyse the key factors of the problem before taking steps to resolve the issue.
+
+Working as an Engineer for one of the best-known companies in the world in the high pressured, fast paced environment of one of the largest warehouses in Europe was an extremely valuable experience. My ability to quickly identify the cause of a breakdown and efficiently resolve the problem was highly valuable and effective, leading to my becoming a key member of the Engineering team.
 
 
 ## Education
