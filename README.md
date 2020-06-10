@@ -12,16 +12,17 @@
 
 </div>
 
+I am a **Full Stack Engineer** and recent graduate of the highly selective programming boot camp [Makers Academy](https://makers.tech/).
 
-I am a **Full Stack Engineer** and recent graduate of the selective programming boot camp [Makers Academy](https://makers.tech/).
 
-My background is in control systems, electrical and mechanical maintenance engineering, which I have worked in for the past 7 years. This is where I began to learn the basics of programming, familiarizing myself with Python and building small scale projects to improve my team’s and my own daily life. 
+My background is in control systems and electrical and mechanical maintenance engineering which I have worked in over the past seven years. Alongside my work as an engineer, I taught myself the basics of programming, familiarizing myself with Python and building small scale projects to improve the working environment and tasks for myself and my team.
 
-During my time at Makers I gained the skills to build complex, full stack applications. trained in OOP, TDD, pair programming, with XP values, and have fallen in love with coding.
+As a graduate of the Makers Academy I now have the skills to build complex, full stack applications using JavaScript and Ruby. I am trained in OOP, TDD, pair programming and using agile processes.
+During my time at Makers I have fallen in love with coding and am excited to bring my passion and enthusiasm to my career. 
 
 ## Projects
 
-This is a selection of projects that I haveve worked on. to see more, [please see my Github](https://github.com/FayeCarter?tab=repositories).
+This is a selection of projects that I have worked on. to see more, [please see my Github](https://github.com/FayeCarter?tab=repositories).
 
 ---
 
@@ -34,9 +35,9 @@ This is a selection of projects that I haveve worked on. to see more, [please se
 
 The aim of the project was to create a welcoming chat room environment for developers to ask for help.
 
-Users can access the site using their GitHub Login details, create a room based around their concern, post a question and receive feedback in realtime. 
+Users can access the site using their GitHub Login details, create a room based around their concern, post a question and receive feedback in real time. 
 
-If the user wants to send a code block, it can be entered in markdown using three back ticks and specifying the language. The message will be formatted as a code block in that language highlighting variables and correctly indenting each line.
+If the user wants to send a code block, it can be entered using markdown by typing three backticks followed by the language their code is written in. The message will be formatted as a code block in the specified language highlighting variables and correctly indenting each line.
 
 ```
 #  ```ruby
@@ -53,14 +54,18 @@ If the user wants to send a code block, it can be entered in markdown using thre
 ---
 
 ### Bank
-A command line Ruby application allowing you to create a bank account, make deposits, withdraw money from it, and print statements.<br>
+
+<img src="./gifs/Bank.gif" width="45%" align="right" >
+
 [Bank on GitHub](https://github.com/FayeCarter/bank_tech_test)
 
-#### Tech Stack
-* Ruby
+A command line Ruby application allowing you to create a bank account, make deposits, withdraw money and print statements.
 
-#### Testing Frameworks
-* RSpec
+The aim of this project was to focus fully on the TDD process with writing clean, DRY code.
+
+| Tech Stack | Testing Frameworks |
+| ---------- | ------------------ |
+|    Ruby    |       RSpec        |
 
 ---
 
