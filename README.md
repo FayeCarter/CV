@@ -1,7 +1,7 @@
-<link rel="stylesheet" type="text/css" media="all" href="./style/style.css" />
-
 <a href="https://www.linkedin.com/in/faye-carter-74882bab/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42" align="right"></a></p>
+
+<br>
 
 <h1 align="center">
   Faye Carter
