@@ -4,6 +4,11 @@
 
 <br> 
 
+<a href="https://www.linkedin.com/in/faye-carter-74882bab/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42" align="center"></a></p>
+
+<br>
+
 <div align="center">
 <a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/Ruby-642%20commits-red.svg" alt=""></a>
 <a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/JavaScript-288%20commits-yellow.svg" alt=""></a>
@@ -11,11 +16,6 @@
 <a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/CSS-333%20commits-blue.svg" alt=""></a>
 <a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/SQL-300%20commits-purple.svg" alt=""></a>
 </div>
-
-<br>
-
-<a href="https://www.linkedin.com/in/faye-carter-74882bab/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42" align="center"></a></p>
 
 <br>
 
@@ -30,7 +30,9 @@
 
 </div>
 <br>
+
 ---
+
 <br>
 
 I am a **Full Stack Engineer** and recent graduate of the highly selective programming boot camp [Makers Academy](https://makers.tech/).
