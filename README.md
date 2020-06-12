@@ -1,11 +1,13 @@
-<a href="https://www.linkedin.com/in/faye-carter-74882bab/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42" align="right"></a></p>
-
-<br>
-
 <h1 align="center">
   Faye Carter
 </h1>
+
+<br> 
+
+<a href="https://www.linkedin.com/in/faye-carter-74882bab/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42" align="center"></a></p>
+
+<br>
 
 <div align="center">
 <a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/Ruby-642%20commits-red.svg" alt=""></a>
@@ -26,7 +28,7 @@
 [Other Projects ](#experience) |
 [Fun Facts ](#hobbies)
 
-
+---
 
 </div>
 
@@ -43,81 +45,12 @@ During my time at Makers I have fallen in love with coding and am excited to bri
 
 This is a selection of projects that I have worked on. To see more, [please see my Github](https://github.com/FayeCarter?tab=repositories).
 
----
-
-### WhatStack
-
-<img src="./gifs/WhatStack.gif" width="45%" align="right" >
- 
-[WhatStack on Github](https://github.com/FayeCarter/WhatStack) <br>
-[WhatStack - Live](http://whatstack.herokuapp.com/) 
-
-The aim of the project was to create a welcoming chat room environment for developers to ask for help.
-
-Users can access the site using their GitHub Login details, create a room based around their concern, post a question and receive feedback in real time. 
-
-If the user wants to send a code block, it can be entered using markdown by typing three backticks followed by the language their code is written in. The message will be formatted as a code block in the specified language highlighting variables and correctly indenting each line.
-
-```
-#  ```ruby
-# name = "Faye"
-#  ```
-```
-
-
-
-| Tech Stack | Testing Frameworks |
-| ---------- | ------------------ |
-|Sockets, OAuth, React, <br>Node, Express,<br> MongoDB | Jest, <br>React Testing Library |
-
----
-
-### Bank
-
-<img src="./gifs/Bank.gif" width="45%" align="right" >
-
-[Bank on GitHub](https://github.com/FayeCarter/bank_tech_test)
-
-A command line Ruby application allowing you to create a bank account, make deposits, withdraw money and print statements.
-
-The aim of this project was to focus fully on the TDD process with writing clean, DRY code.
-
-| Tech Stack | Testing Frameworks |
-| ---------- | ------------------ |
-|    Ruby    |       RSpec        |
-
----
-
-### Rock, Paper, Scissors
-
-<img src="https://github.com/FayeCarter/rps-challenge/raw/master/supporting/RPS.gif" width="45%" align="right" >
-
-[Rock, Paper, Scissors on GitHub](https://github.com/FayeCarter/rps-challenge)
-
-A Ruby/Sinatra web application.
-
-Player can enter their name and play 'Rock, Paper, Scissors' against the computer. The game tracks the game score so the player can see how successful they are.
-
-
-| Tech Stack | Testing Frameworks |
-| ---------- | ------------------ |
-| Ruby, Sinatra, CSS, HTML    |       RSpec        |
-
----
-
-### RecipeTimer
-<img src="https://github.com/FayeCarter/recipeTimer/blob/master/app.gif" width="45%" align="right" >
-
-**work in progress**
-[RecipeTimer](https://github.com/FayeCarter/recipeTimer)
-
-A small scale Chrome Extension allowing users to visit BBC GoodFood recipes and see what time their recipe will be ready if the start cooking now.
-
-| Tech Stack |
-| ---------- |
-| JavaScript, Chrome API    |
-
----
+| Project | Description |
+| -- | :--: |
+|The aim of the project was to create a welcoming chat room environment for developers to ask for help. <br> Users can access the site using their GitHub Login details, create a room based around their concern, post a question and receive feedback in real time. <br> If the user wants to send a code block, it can be entered using markdown by typing three backticks followed by the language their code is written in. The message will be formatted as a code block in the specified language highlighting variables and correctly indenting each line. <br><br> **Tech Stack** <br> Sockets, OAuth, React, <br>Node, Express,<br> MongoDB <br><br> **Testing Frameworks** <br> Jest, <br>React Testing Library <br>| **[WhatStack](https://github.com/FayeCarter/WhatStack)** <br> [WhatStack - Live](http://whatstack.herokuapp.com/) <br><br> ![](./gifs/WhatStack.gif) |
+| A command line Ruby application allowing you to create a bank account, make deposits, withdraw money and print statements. <br> The aim of this project was to focus fully on the TDD process with writing clean, DRY code. <br><br> **Tech Stack** <br> Ruby <br><br> **Testing Frameworks** <br> RSpec <br> | **[Bank](https://github.com/FayeCarter/bank_tech_test)** <br><br> ![](./gifs/Bank.gif) |
+| A Ruby/Sinatra web application. <br> Player can enter their name and play 'Rock, Paper, Scissors' against the computer. The game tracks the game score so the player can see how successful they are. <br><br> **Tech Stack** <br> Ruby, Sinatra, CSS, HTML <br><br> **Testing Frameworks** <br> RSpec <br> | **[Rock, Paper, Scissors](https://github.com/FayeCarter/rps-challenge)** <br><br> ![](https://github.com/FayeCarter/rps-challenge/raw/master/supporting/RPS.gif) |
+| **work in progress** <br><br> A small scale Chrome Extension allowing users to visit BBC GoodFood recipes and see what time their recipe will be ready if the start cooking now. <br><br> **Tech Stack** <br> JavaScript, Chrome API | **[RecipeTimer](https://github.com/FayeCarter/recipeTimer)** <br><br> ![](https://github.com/FayeCarter/recipeTimer/blob/master/app.gif) |
 
 ## Skills
 
