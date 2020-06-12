@@ -105,6 +105,20 @@ Player can enter their name and play 'Rock, Paper, Scissors' against the compute
 
 ---
 
+### RecipeTimer
+<img src="https://github.com/FayeCarter/recipeTimer/blob/master/app.gif" width="45%" align="right" >
+
+**work in progress**
+[RecipeTimer](https://github.com/FayeCarter/recipeTimer)
+
+A small scale Chrome Extension allowing users to visit BBC GoodFood recipes and see what time their recipe will be ready if the start cooking now.
+
+| Tech Stack |
+| ---------- |
+| JavaScript, Chrome API    |
+
+---
+
 ## Skills
 
 ### Innovate and Streamline
