@@ -70,21 +70,27 @@ If the user wants to send a code block, it can be entered using markdown by typi
 | ---------- | ------------------ |
 |Sockets, OAuth, React, <br>Node, Express,<br> MongoDB | Jest, <br>React Testing Library |
 
----
 
-### Bank
+| Project | Description |
+| ------- | ----------- |
+|[Bank on GitHub](https://github.com/FayeCarter/bank_tech_test) <br>
+A command line Ruby application allowing you to create a bank account, make deposits, withdraw money and print statements.
 
-<img src="./gifs/Bank.gif" width="45%" align="right" >
+The aim of this project was to focus fully on the TDD process with writing clean, DRY code.
+ Tech Stack
+ * Ruby
+ Testing Frameworks
+ * RSpec
 
-[Bank on GitHub](https://github.com/FayeCarter/bank_tech_test)
+| ![](./gifs/Bank.gif) |
+
+
 
 A command line Ruby application allowing you to create a bank account, make deposits, withdraw money and print statements.
 
 The aim of this project was to focus fully on the TDD process with writing clean, DRY code.
 
-| Tech Stack | Testing Frameworks |
-| ---------- | ------------------ |
-|    Ruby    |       RSpec        |
+
 
 ---
 
