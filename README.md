@@ -95,6 +95,12 @@ Working as an Engineer for one of the best-known companies in the world in the h
 
 - BA (Hons) Architecture
 
+#### A levels (2006 - 2008)
+
+- Maths
+- Product Design
+- History
+
 ## Experience
 
 **Amazon** (2017 - 2020)    
