@@ -116,6 +116,8 @@ Working as an Engineer for one of the best-known companies in the world in the h
 
 **Job Hunt** (2012- 2013)
 *I have a bad habit of graduating in times of world crises*
+* Volunteer assistant at Peterborough Hospital
+* Volunteer receprionist at Guide Dogs for the Blind
 
 **Travel** (2011- 2012)
 *Finland, Central America, USA*
