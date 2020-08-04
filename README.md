@@ -11,11 +11,12 @@
 <br> 
 
 <div align="center">
-<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/Ruby-642%20commits-red.svg" alt=""></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/JavaScript-288%20commits-yellow.svg" alt=""></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/HTML-232%20commits-green.svg" alt=""></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/CSS-333%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/SQL-300%20commits-purple.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/Ruby-688%20commits-red.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/Python-195%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/JavaScript-886%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/HTML-708%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/CSS-946%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/SQL-404%20commits-purple.svg" alt=""></a>
 </div>
 
 <br>
