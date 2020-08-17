@@ -37,11 +37,11 @@
 
 <br>
 
-I am a **Full Stack Engineer** and recent graduate of the highly selective programming boot camp [Makers Academy](https://makers.tech/).
+I am a **Front End developer** and recent graduate of the highly selective programming boot camp [Makers Academy](https://makers.tech/).
 
 I have a BA in Architecture and a background in control systems and electrical and mechanical maintenance engineering, which I have worked for the past seven years. Alongside my work as an engineer, I taught myself the basics of programming, familiarizing myself with Python and building small scale projects to improve the working environment and daily tasks for myself and my team.
 
-As a graduate of the Makers Academy, I now have the skills to build complex, full stack applications using JavaScript and Ruby. I am trained in OOP, TDD, pair programming and using agile processes.
+As a graduate of the Makers Academy, I now have the skills to build, full stack  and front end applications using JavaScript and Ruby. I am trained in OOP, TDD, pair programming and using agile processes.
 
 During my time at Makers, I have fallen in love with coding and am excited to bring my passion and enthusiasm to a new role.
 
